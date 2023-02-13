@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T05:30:48.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6ui_ZX2TDZY7qSFcxAIr" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T05:31:51.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yRrY1eTw4NirPfNtt_R0" version="20.8.20" type="github">
   <diagram name="페이지-1" id="IIl-CxRhGwmSr3gcKVxL">
-    <mxGraphModel dx="2625" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I4mbTqDrchtEptXJRea5-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;ADMIN&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#7ECAFC;strokeColor=#6c8ebf;gradientColor=#3BEBFF;" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;ADMIN&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#7ECAFC;strokeColor=#6c8ebf;gradientColor=#3BEBFF;" parent="1" vertex="1">
           <mxGeometry x="760" y="240" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;USER&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#14FC43;strokeColor=#6c8ebf;gradientColor=#6AFF59;" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;USER&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#14FC43;strokeColor=#6c8ebf;gradientColor=#6AFF59;" parent="1" vertex="1">
           <mxGeometry x="1200" y="240" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;STUDY&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#A0FC17;strokeColor=#6c8ebf;gradientColor=#C1FF57;" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;STUDY&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#A0FC17;strokeColor=#6c8ebf;gradientColor=#C1FF57;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-4" value="본인정보 수정" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-4" value="본인정보 수정" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1260" y="880" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-5" value="&lt;table style=&quot;border-color: var(--border-color); font-size: 20px; text-align: left;&quot; class=&quot;simple-table&quot; id=&quot;641d19b6-5685-4ff1-a8e2-494bd2d53a1b&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color); font-size: 20px;&quot; id=&quot;c70bd605-bbbd-4b36-904c-4488820a4ed9&quot;&gt;&lt;td style=&quot;border-color: var(--border-color); font-size: 20px;&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원삭제&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color); font-size: 20px;&quot; id=&quot;0e1357af-12ed-46eb-b10c-167027bdc153&quot;&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-5" value="&lt;table style=&quot;border-color: var(--border-color); font-size: 20px; text-align: left;&quot; class=&quot;simple-table&quot; id=&quot;641d19b6-5685-4ff1-a8e2-494bd2d53a1b&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color); font-size: 20px;&quot; id=&quot;c70bd605-bbbd-4b36-904c-4488820a4ed9&quot;&gt;&lt;td style=&quot;border-color: var(--border-color); font-size: 20px;&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원삭제&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color); font-size: 20px;&quot; id=&quot;0e1357af-12ed-46eb-b10c-167027bdc153&quot;&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="820" y="760" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-9" target="I4mbTqDrchtEptXJRea5-1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="I4mbTqDrchtEptXJRea5-9" target="I4mbTqDrchtEptXJRea5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-9" target="I4mbTqDrchtEptXJRea5-3">
+        <mxCell id="I4mbTqDrchtEptXJRea5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;" parent="1" source="I4mbTqDrchtEptXJRea5-9" target="I4mbTqDrchtEptXJRea5-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="200" />
@@ -30,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-9" target="I4mbTqDrchtEptXJRea5-2">
+        <mxCell id="I4mbTqDrchtEptXJRea5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="I4mbTqDrchtEptXJRea5-9" target="I4mbTqDrchtEptXJRea5-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="200" />
@@ -38,16 +38,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;StudyTime&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#00FFFF;" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;StudyTime&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#00FFFF;" parent="1" vertex="1">
           <mxGeometry x="640" y="40" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-10" value="상품수정" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-10" value="상품수정" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="640" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;상품등록&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;상품등록&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="400" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-14" target="I4mbTqDrchtEptXJRea5-28">
+        <mxCell id="I4mbTqDrchtEptXJRea5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" source="I4mbTqDrchtEptXJRea5-14" target="I4mbTqDrchtEptXJRea5-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1020" y="560" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-14" target="I4mbTqDrchtEptXJRea5-5">
+        <mxCell id="I4mbTqDrchtEptXJRea5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" source="I4mbTqDrchtEptXJRea5-14" target="I4mbTqDrchtEptXJRea5-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1020" y="560" />
@@ -63,19 +63,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-14" value="회원관리" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-14" value="회원관리" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="760" y="520" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-15" value="회원가입 허가" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-15" value="회원가입 허가" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="760" y="400" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-16" value="배송정보 입력" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-16" value="배송정보 입력" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="1120" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-17" value="본인정보 삭제" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-17" value="본인정보 삭제" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1260" y="1000" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-20" target="I4mbTqDrchtEptXJRea5-4">
+        <mxCell id="I4mbTqDrchtEptXJRea5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" source="I4mbTqDrchtEptXJRea5-20" target="I4mbTqDrchtEptXJRea5-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1460" y="800" />
@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-20" target="I4mbTqDrchtEptXJRea5-17">
+        <mxCell id="I4mbTqDrchtEptXJRea5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" source="I4mbTqDrchtEptXJRea5-20" target="I4mbTqDrchtEptXJRea5-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1460" y="800" />
@@ -91,16 +91,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;본인정보 보기&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;본인정보 보기&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1200" y="760" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-21" value="장바구니" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-21" value="장바구니" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="1000" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-22" value="상품구매" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-22" value="상품구매" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="880" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-24" target="I4mbTqDrchtEptXJRea5-25">
+        <mxCell id="I4mbTqDrchtEptXJRea5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" source="I4mbTqDrchtEptXJRea5-24" target="I4mbTqDrchtEptXJRea5-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1460" y="560" />
@@ -108,22 +108,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-24" value="로그인" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-24" value="로그인" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1200" y="520" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-25" value="로그아웃" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-25" value="로그아웃" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1260" y="640" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-26" value="회원가입" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-26" value="회원가입" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1200" y="400" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-27" value="상품 삭제" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-27" value="상품 삭제" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="760" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-28" value="회원정보 보기" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-28" value="회원정보 보기" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="820" y="640" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-32" target="I4mbTqDrchtEptXJRea5-10">
+        <mxCell id="I4mbTqDrchtEptXJRea5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" source="I4mbTqDrchtEptXJRea5-32" target="I4mbTqDrchtEptXJRea5-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="560" />
@@ -131,7 +131,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-32" target="I4mbTqDrchtEptXJRea5-27">
+        <mxCell id="I4mbTqDrchtEptXJRea5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" source="I4mbTqDrchtEptXJRea5-32" target="I4mbTqDrchtEptXJRea5-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="560" />
@@ -139,7 +139,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" edge="1" parent="1" source="I4mbTqDrchtEptXJRea5-32" target="I4mbTqDrchtEptXJRea5-22">
+        <mxCell id="I4mbTqDrchtEptXJRea5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" source="I4mbTqDrchtEptXJRea5-32" target="I4mbTqDrchtEptXJRea5-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="560" />
@@ -147,11 +147,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;상품 상세보기&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;상품 상세보기&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="520" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4mbTqDrchtEptXJRea5-33" value="&lt;table class=&quot;simple-table&quot; id=&quot;70330129-6e44-4c51-83f8-1322f771b319&quot;&gt;&lt;tbody&gt;&lt;tr id=&quot;bba74d34-9c73-4337-806a-58e90687313b&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원삭제&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;1b92093e-bc0a-4702-a881-a1eb60d62386&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원관리&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;cf8c1f79-147a-4f0b-888c-03979f273e27&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 등록&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;8e84577c-4f19-493c-bc1b-656fb29dce4b&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 삭제&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;73bfd843-ea65-4578-85bd-937c9364c2a4&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 수정&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;2f664c6e-b563-402f-8f13-a029d0cbb7a8&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 조회&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;a5bb2cee-4cb2-49df-b867-d697b354c4fb&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원정보 보기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;59c49ae3-bdfa-40fe-a75c-5504ddc6a63c&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원정보 수정&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;bcf82544-504e-4ee4-89d6-aafef6fdda2e&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원정보 삭제&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;691de07e-b12f-4d85-98bd-3bdf0278b462&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;공지사항&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;ca7454e9-a16c-4594-8650-9387da2a39c8&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 가입 승인&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;f1ecc024-cafd-4f22-b8be-45403ebfc773&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원가입&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;0ea046f9-867f-4be1-bb53-a4d45a6eef1e&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;로그아웃&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;44827ed3-ab1f-40b4-8e85-0e7a85ad1f62&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;로그인&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;145b54cc-aad9-487a-b57a-87464ff03ad1&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;본인 정보 수정&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;a6e42212-231a-44b7-83b8-ee178a2b4ea2&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원탈퇴&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;ed9ccbaa-5f4b-4651-b3fb-37fb6c7ad095&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;본인 정보 보기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;f2a7a2fb-ac84-4034-bfa2-c6783efaed78&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 상세보기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;160d3f0d-1435-4dbb-afd6-ba8eef9b0fca&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;커뮤니티 게시판&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;1df0de09-223a-4905-943f-4e6b8b1754d8&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;아이디/비번찾기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;7b0124e7-5e82-4a19-9d27-2a35440d7188&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 가입&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;c61bdf71-ca8e-4b9d-b0b6-fcc64ddfad7b&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 회원 가입 승인&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;90de042b-bf78-40ce-853c-133b2907c40b&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 탈퇴&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;3a95880b-6af0-4b6a-af59-acbbe1955846&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;근처 스터디 카페 보여주기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;f43a8751-c342-4821-9aff-965794a09f9a&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;로그인&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;890a7675-f5a4-415e-a7a9-0538c83b60f4&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원가입&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;3fd66ad3-7d83-4aee-a6c6-6c9642d54594&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 조회&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;ca36e7ac-ea46-49e5-a4a2-00abdf2b59c3&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;로그아웃&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;764fffa8-29cc-42f4-96ee-f487a32cb160&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원탈퇴&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;1b8ade1f-aa8f-468f-b2d7-714983d51d45&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 상세보기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;a3e50cb4-09dc-4adb-aba1-50abaf3cdeae&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;커뮤니티 게시판&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;be05f7f7-5030-4c15-884f-aaaad1dc91b2&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;아이디/비번찾기&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I4mbTqDrchtEptXJRea5-33" value="&lt;table class=&quot;simple-table&quot; id=&quot;70330129-6e44-4c51-83f8-1322f771b319&quot;&gt;&lt;tbody&gt;&lt;tr id=&quot;bba74d34-9c73-4337-806a-58e90687313b&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원삭제&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;1b92093e-bc0a-4702-a881-a1eb60d62386&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원관리&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;cf8c1f79-147a-4f0b-888c-03979f273e27&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 등록&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;8e84577c-4f19-493c-bc1b-656fb29dce4b&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 삭제&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;73bfd843-ea65-4578-85bd-937c9364c2a4&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 수정&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;2f664c6e-b563-402f-8f13-a029d0cbb7a8&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 조회&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;a5bb2cee-4cb2-49df-b867-d697b354c4fb&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원정보 보기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;59c49ae3-bdfa-40fe-a75c-5504ddc6a63c&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원정보 수정&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;bcf82544-504e-4ee4-89d6-aafef6fdda2e&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원정보 삭제&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;691de07e-b12f-4d85-98bd-3bdf0278b462&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;공지사항&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;ca7454e9-a16c-4594-8650-9387da2a39c8&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 가입 승인&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;f1ecc024-cafd-4f22-b8be-45403ebfc773&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원가입&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;0ea046f9-867f-4be1-bb53-a4d45a6eef1e&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;로그아웃&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;44827ed3-ab1f-40b4-8e85-0e7a85ad1f62&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;로그인&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;145b54cc-aad9-487a-b57a-87464ff03ad1&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;본인 정보 수정&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;a6e42212-231a-44b7-83b8-ee178a2b4ea2&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원탈퇴&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;ed9ccbaa-5f4b-4651-b3fb-37fb6c7ad095&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;본인 정보 보기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;f2a7a2fb-ac84-4034-bfa2-c6783efaed78&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 상세보기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;160d3f0d-1435-4dbb-afd6-ba8eef9b0fca&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;커뮤니티 게시판&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;1df0de09-223a-4905-943f-4e6b8b1754d8&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;아이디/비번찾기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;7b0124e7-5e82-4a19-9d27-2a35440d7188&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 가입&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;c61bdf71-ca8e-4b9d-b0b6-fcc64ddfad7b&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 회원 가입 승인&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;90de042b-bf78-40ce-853c-133b2907c40b&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 탈퇴&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;3a95880b-6af0-4b6a-af59-acbbe1955846&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;근처 스터디 카페 보여주기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;f43a8751-c342-4821-9aff-965794a09f9a&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;로그인&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;890a7675-f5a4-415e-a7a9-0538c83b60f4&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원가입&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;3fd66ad3-7d83-4aee-a6c6-6c9642d54594&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 조회&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;ca36e7ac-ea46-49e5-a4a2-00abdf2b59c3&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;로그아웃&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;764fffa8-29cc-42f4-96ee-f487a32cb160&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;회원탈퇴&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;1b8ade1f-aa8f-468f-b2d7-714983d51d45&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;스터디 상세보기&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;a3e50cb4-09dc-4adb-aba1-50abaf3cdeae&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;커뮤니티 게시판&lt;/td&gt;&lt;/tr&gt;&lt;tr id=&quot;be05f7f7-5030-4c15-884f-aaaad1dc91b2&quot;&gt;&lt;td style=&quot;width:165px&quot; class=&quot;&quot; id=&quot;PJ:h&quot;&gt;아이디/비번찾기&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="200" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="aSexdq5h994voaINRJtj-1" value="회원가입 허가" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="970" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
