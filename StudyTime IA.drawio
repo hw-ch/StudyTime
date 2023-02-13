@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T05:32:09.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eslcvHfQyHIYQB0YYyL4" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T05:33:03.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="d0elTP2exR59CIh8t2Sr" version="20.8.20" type="github">
   <diagram name="페이지-1" id="IIl-CxRhGwmSr3gcKVxL">
-    <mxGraphModel dx="2625" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,6 +155,18 @@
         </mxCell>
         <mxCell id="aSexdq5h994voaINRJtj-1" value="회원가입 허가" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="790" y="970" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I4mbTqDrchtEptXJRea5-34" value="배송정보 입력" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="1130" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I4mbTqDrchtEptXJRea5-35" value="배송정보 입력" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="1180" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I4mbTqDrchtEptXJRea5-36" value="배송정보 입력" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="1290" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I4mbTqDrchtEptXJRea5-37" value="배송정보 입력" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffff88;strokeColor=#36393d;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="1540" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
