@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\develop\StudyTime\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1131682296.index
+1020908884.index
+343028848.index
+682110469.index
