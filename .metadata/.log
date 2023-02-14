@@ -3143,6 +3143,7 @@ java.io.IOException: Cannot run program "/Users/hyewonchoi/jdk1.8.0_362/bin/java
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+<<<<<<< Updated upstream
 Caused by: java.io.IOException: error=13, Permission denied
 	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
 	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:340)
@@ -3598,4 +3599,30 @@ java.io.FileNotFoundException: /Users/hyewonchoi/develop/teamproj/StudyTime/.met
 !MESSAGE Could not determine Java version for location /Users/hyewonchoi/jdk1.8.0_362.
 
 !ENTRY org.eclipse.jdt.launching 4 4 2023-02-14 16:27:42.403
+=======
+
+!ENTRY org.eclipse.core.resources 2 2 2023-02-14 16:32:18.873
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-02-14 16:32:18.873
+!MESSAGE The project description file (.project) for 'Servers' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-02-14 16:32:18.873
+!MESSAGE The project description file (.project) for 'StudyTime1' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.jdt.launching 4 4 2023-02-14 16:32:20.007
+!MESSAGE Could not determine Java version for location /Users/hyewonchoi/jdk1.8.0_362.
+
+!ENTRY org.eclipse.jdt.launching 4 4 2023-02-14 16:32:21.066
+!MESSAGE Could not determine Java version for location /Users/hyewonchoi/jdk1.8.0_362.
+
+!ENTRY org.eclipse.jdt.launching 4 4 2023-02-14 16:32:22.110
+!MESSAGE Could not determine Java version for location /Users/hyewonchoi/jdk1.8.0_362.
+
+!ENTRY org.eclipse.jdt.launching 4 4 2023-02-14 16:32:23.148
+!MESSAGE Could not determine Java version for location /Users/hyewonchoi/jdk1.8.0_362.
+
+!ENTRY org.eclipse.jdt.launching 4 4 2023-02-14 16:32:24.192
+>>>>>>> Stashed changes
+!MESSAGE Could not determine Java version for location /Users/hyewonchoi/jdk1.8.0_362.
+
+!ENTRY org.eclipse.jdt.launching 4 4 2023-02-14 16:32:59.899
 !MESSAGE Could not determine Java version for location /Users/hyewonchoi/jdk1.8.0_362.
